@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Digital Storytelling",
     "description": "",
-    "home_page_url": "https://danieljaffe.github.io",
-    "feed_url": "https://danieljaffe.github.io/feed.json",
+    "home_page_url": "https://danieljaffe.github.io/digitalstorytelling-publii",
+    "feed_url": "https://danieljaffe.github.io/digitalstorytelling-publii/feed.json",
     "user_comment": "",
     "author": {
         "name": "Daniel Jaffe"
